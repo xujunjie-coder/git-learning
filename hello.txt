@@ -1,1 +1,1 @@
-"Hello from master" | Set-Content hello.txt
+hello from resolved merge
