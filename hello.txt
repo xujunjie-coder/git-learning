@@ -1,2 +1,1 @@
-hello xjj
-This is a feature A.
+"Hello from conflict-demo" | Set-Content hello.txt
